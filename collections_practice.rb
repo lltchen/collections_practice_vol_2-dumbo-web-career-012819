@@ -5,4 +5,5 @@ def begins_with_r(collections)
     else
       return false
     end
+  end
 end
