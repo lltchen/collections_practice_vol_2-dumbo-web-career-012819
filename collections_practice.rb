@@ -1,4 +1,4 @@
-def begins_with_r(Collections)
+def begins_with_r("Collections")
   Collections.each do |object|
     if object.start_with?("r")
       return true
